@@ -2,6 +2,11 @@ using System.ComponentModel;
 
 namespace SharedKernel.Bases;
 
+/// <summary>
+/// Represents pagination parameters for requesting a single page of results.
+/// </summary>
+/// <param name="PageSize">Number of items to return in a single page of results.</param>
+/// <param name="PageIndex">The index of the page of results to return.</param>
 public record PaginationRequest(
     [property: Description("Number of items to return in a single page of results")]
     [property: DefaultValue(10)]
