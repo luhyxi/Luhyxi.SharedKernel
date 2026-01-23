@@ -1,4 +1,4 @@
-namespace SharedKernel.Bases;
+namespace Luhyxi.SharedKernel.Bases;
 
 /// <summary>
 /// Marker interface for a query (an intent to read system state) with no typed response.

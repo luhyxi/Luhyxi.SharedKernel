@@ -1,4 +1,4 @@
-namespace SharedKernel.ValueObjects;
+namespace Luhyxi.SharedKernel.ValueObjects;
 
 /// <summary>
 /// Represents the outcome of an operation that can succeed or fail, carrying an <see cref="Error"/> on failure.

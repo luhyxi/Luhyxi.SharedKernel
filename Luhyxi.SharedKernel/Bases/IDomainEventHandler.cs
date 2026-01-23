@@ -1,4 +1,4 @@
-namespace SharedKernel.Bases;
+namespace Luhyxi.SharedKernel.Bases;
 
 /// <summary>
 /// Handles a domain event of a specific type.

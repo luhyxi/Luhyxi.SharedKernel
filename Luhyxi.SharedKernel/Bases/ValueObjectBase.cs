@@ -1,4 +1,4 @@
-namespace SharedKernel.Bases;
+namespace Luhyxi.SharedKernel.Bases;
 
 /// <summary>
 /// Base type for immutable value objects, providing structural equality and ordering based on component values.

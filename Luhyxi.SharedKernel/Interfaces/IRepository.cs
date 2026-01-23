@@ -1,6 +1,6 @@
-using SharedKernel.Bases;
+using Luhyxi.SharedKernel.Bases;
 
-namespace SharedKernel.Interfaces;
+namespace Luhyxi.SharedKernel.Interfaces;
 
 /// <summary>
 /// Base repository contract for aggregates, exposing the associated <see cref="IUnitOfWork"/>.

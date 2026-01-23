@@ -1,6 +1,6 @@
 using System.ComponentModel;
 
-namespace SharedKernel.Bases;
+namespace Luhyxi.SharedKernel.Bases;
 
 /// <summary>
 /// Represents pagination parameters for requesting a single page of results.

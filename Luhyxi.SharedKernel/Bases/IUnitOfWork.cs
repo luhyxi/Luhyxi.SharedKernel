@@ -1,4 +1,4 @@
-namespace SharedKernel.Bases;
+namespace Luhyxi.SharedKernel.Bases;
 
 /// <summary>
 /// Represents a unit of work that coordinates persistence and transactional boundaries.

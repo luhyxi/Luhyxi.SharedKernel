@@ -3,5 +3,5 @@
     <File Path=".editorconfig" />
     <File Path="Directory.Build.props" />
   </Folder>
-  <Project Path="SharedKernel/SharedKernel.csproj" />
+  <Project Path="Luhyxi.SharedKernel\Luhyxi.SharedKernel.csproj" />
 </Solution>

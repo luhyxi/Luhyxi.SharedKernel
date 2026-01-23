@@ -1,4 +1,4 @@
-namespace SharedKernel.Enums;
+namespace Luhyxi.SharedKernel.Enums;
 
 /// <summary>
 /// Represents the lifecycle status of an entity.

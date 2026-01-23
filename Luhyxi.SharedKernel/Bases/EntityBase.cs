@@ -1,6 +1,6 @@
-using SharedKernel.Enums;
+using Luhyxi.SharedKernel.Enums;
 
-namespace SharedKernel.Bases;
+namespace Luhyxi.SharedKernel.Bases;
 
 /// <summary>
 /// Base type for domain entities, providing identity, lifecycle metadata, and domain event tracking.

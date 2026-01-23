@@ -1,4 +1,4 @@
-namespace SharedKernel.ValueObjects;
+namespace Luhyxi.SharedKernel.ValueObjects;
 
 /// <summary>
 /// Represents an error with a stable code and human-readable description.

@@ -1,4 +1,4 @@
-namespace SharedKernel.Bases;
+namespace Luhyxi.SharedKernel.Bases;
 
 /// <summary>
 /// Marker interface for a command (an intent to change system state) with no typed response.

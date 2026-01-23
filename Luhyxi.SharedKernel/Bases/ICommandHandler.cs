@@ -1,6 +1,6 @@
-using SharedKernel.ValueObjects;
+using Luhyxi.SharedKernel.ValueObjects;
 
-namespace SharedKernel.Bases;
+namespace Luhyxi.SharedKernel.Bases;
 
 /// <summary>
 /// Handles a command and returns an untyped <see cref="Result"/> indicating success or failure.
